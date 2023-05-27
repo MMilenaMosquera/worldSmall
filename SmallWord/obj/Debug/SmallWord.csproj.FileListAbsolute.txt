@@ -1,0 +1,11 @@
+C:\Users\Sistema\source\repos\SmallWord\SmallWord\bin\Debug\SmallWord.exe.config
+C:\Users\Sistema\source\repos\SmallWord\SmallWord\bin\Debug\SmallWord.exe
+C:\Users\Sistema\source\repos\SmallWord\SmallWord\bin\Debug\SmallWord.pdb
+C:\Users\Sistema\source\repos\SmallWord\SmallWord\obj\Debug\SmallWord.csproj.AssemblyReference.cache
+C:\Users\Sistema\source\repos\SmallWord\SmallWord\obj\Debug\SmallWord.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sistema\source\repos\SmallWord\SmallWord\obj\Debug\SmallWord.Form1.resources
+C:\Users\Sistema\source\repos\SmallWord\SmallWord\obj\Debug\SmallWord.Properties.Resources.resources
+C:\Users\Sistema\source\repos\SmallWord\SmallWord\obj\Debug\SmallWord.csproj.GenerateResource.cache
+C:\Users\Sistema\source\repos\SmallWord\SmallWord\obj\Debug\SmallWord.csproj.CoreCompileInputs.cache
+C:\Users\Sistema\source\repos\SmallWord\SmallWord\obj\Debug\SmallWord.exe
+C:\Users\Sistema\source\repos\SmallWord\SmallWord\obj\Debug\SmallWord.pdb
